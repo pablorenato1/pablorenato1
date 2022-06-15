@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá sou aluno do curso de Bacharelado de Sistemas de Informação na UFRPE e aqui estarei postando algumas coisas que venho aprendendo 👋
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablorenato1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
