@@ -2,6 +2,9 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablorenato1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablorenato1)](https://github.com/anuraghazra/github-readme-stats)
 **pablorenato1/pablorenato1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
