@@ -3,9 +3,8 @@
 ### Sou aluno do curso de Bacharelado de Sistemas de Informação na UFRPE
 
 - 🔧 Tenho conhecimento em: - `.js`, `.py`
-- 💬 Falo Português e Inglês
+- 💬 Idioma: Português e Inglês
 - ✨ Gosto de Desafios
-- 📖 Posto o que aprendo
 
 ### Github Stats
 
