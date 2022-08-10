@@ -1,7 +1,7 @@
 ## Hi 👋 my name is Pablo!
 
 
-I am current a student of Information System Course at UFRPE.
+I am currently a student at UFRPE.
 
 
 
