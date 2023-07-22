@@ -1,7 +1,9 @@
-## Hi 👋 my name is Pablo!
+## Hi 👋 my name is Pablo Renato!
 
 
-I am currently a student at UFRPE.
+I really love coding. The thrill of starting a new project, the satisfaction of refactoring code to make it cleaner and more efficient **AND IT STILL WORKING ??**  that is a great feeling. Yes, it can be tough at times, but I really like it.
+
+While my primary focus is backend coding, I also find joy in taking on frontend challenges for personal projects. 💻
 
 
 
@@ -16,7 +18,11 @@ I am currently a student at UFRPE.
   <img align="center" alt="Pablo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Pablo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Pablo-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Pablo-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"
+  <img align="center" alt="Pablo-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
+  <img align="center" alt="Pablo-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
+  <img align="center" alt="Pablo-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg">
+  <img align="center" alt="Pablo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Pablo-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
 </div>
 
 ##
