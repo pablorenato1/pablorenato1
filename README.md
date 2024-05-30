@@ -1,11 +1,11 @@
 ## Hi 👋 my name is Pablo Renato!
 
 
-I really love coding. The thrill of starting a new project, the satisfaction of refactoring code to make it cleaner and more efficient **AND IT STILL WORKING ??**  that is a great feeling. Yes, it can be tough at times, but I really like it.
+I love coding. The thrill of starting a new project, the satisfaction of refactoring code to make it cleaner and more efficient **AND IT STILL WORKING ??**  is a great feeling. Yes, it can be tough at times, but I like it. 🐸
 
 While my primary focus is backend coding, I also find joy in taking on frontend challenges for personal projects. 💻
 
-
+PS: I love frogs 🐸
 
 ### Github Stats
 
