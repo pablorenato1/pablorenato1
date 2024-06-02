@@ -3,7 +3,7 @@
 
 I love coding. The thrill of starting a new project, the satisfaction of refactoring code to make it cleaner and more efficient **AND IT STILL WORKING ??**  is a great feeling. Yes, it can be tough at times, but I like it. 🐸
 
-While my primary focus is backend coding, I also find joy in taking on frontend challenges for personal projects. 💻
+While my primary focus is backend coding, I also enjoy taking on frontend challenges for personal projects. 💻
 
 PS: I love frogs 🐸
 
@@ -28,6 +28,6 @@ PS: I love frogs 🐸
 
 <div> 
   <a href ="mailto:pablorenato15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pablo-renato-a4482a214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pablo-renato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
